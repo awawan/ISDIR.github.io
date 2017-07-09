@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to ISDIR
 
-You can use the [editor on GitHub](https://github.com/awawan/ISDIR.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Instrumen Sistem Informasi Debit Jaringan Irigasi (ISDIR) adalah alat ukur debit irigasi yang melakukan pengukuran debit di lapangan, langsung menampilkan data debit di website ini.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Semua Tahu, Sama Rasa, Sama sama Dapat Air
 
 ### Markdown
 
